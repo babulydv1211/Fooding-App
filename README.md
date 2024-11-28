@@ -9,3 +9,4 @@
 - View, update, and remove items from the cart
 - Place orders and make payments via Stripe
 - Admin panel for managing orders and updating order status
+## Screenshots![Screenshot 2024-11-29 015305](https://github.com/user-attachments/assets/e1ade43a-d687-486d-a94c-66c503abd234)
