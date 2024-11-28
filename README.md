@@ -29,5 +29,11 @@ Follow these steps to set up the project locally:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/fooding.git
+git clone https://github.com/babulydv1211/fooding.git
 cd fooding
+
+2. Set up Backend (Server)
+
+1.Navigate to the backend directory:
+
+cd backend
