@@ -16,4 +16,4 @@ export const assets ={
     babul_img
 }
 
-export const url = 'http://localhost:4000'
+export const url = 'https://fooding-app-backend.onrender.com'
