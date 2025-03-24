@@ -8,11 +8,21 @@ const Footer = () => {
         <div className="footer-content-left">
           {/* <img src={ assets.logo} alt=""/> */}
           <h1 className="footer-clr">Fooding.com</h1>
-          <p>Lorem ipsum dolor, si. beatae ducimus nesciunt commodi nemo assumenda? Vero, dicta.</p>
+          <p>Fresh and tasty meals, made with love and delivered to you!</p>
+
+
           <div className="footer-social-icons">
-            <img src={assets.facebook_icon} alt="" />
-            <img src={assets.twitter_icon} alt="" />
-            <img src={assets.linkedin_icon} alt="" />
+          <a href="https://www.facebook.com/profile.php?id=100091455713940" target="_blank" rel="noopener noreferrer">
+              <img src={assets.facebook_icon} alt="Facebook" />
+            </a>
+
+            <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
+            <img src={assets.twitter_icon} alt="Twitter" />
+             </a>
+            {/* <img src={assets.linkedin_icon} alt="" /> */}
+            <a href="https://www.linkedin.com/in/babul-yadav1211" target="_blank" rel="noopener noreferrer">
+              <img src={assets.linkedin_icon} alt="LinkedIn" />
+            </a>
           </div>
         </div>
         <div className="footer-content-center">
@@ -28,7 +38,7 @@ const Footer = () => {
          <h2> GET IN TOUCH</h2>
          <ul>
             <li>+91-9508568903</li>
-            <li>contact@fooding.com</li>
+            <li>babulkr1211@gmail.com</li>
          </ul>
         </div>
       </div>
